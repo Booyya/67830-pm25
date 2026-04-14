@@ -21,10 +21,12 @@ data/cache_v2/
 data/cache/
 data/processed/
 data/raw/
+data/cache_working/
 
 # allow structure but not files
 !data/.keep
 !data/cache_v2/.keep
+!data/cache_working/.keep
 !data/processed/.keep
 
 # jupyter/ misc dev
